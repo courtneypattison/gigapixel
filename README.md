@@ -16,8 +16,8 @@ Copy the attribution block directly into the description box of your *Title Slid
 * **Max Height:** `8150`
 
 **Copy this attribution for your slide:**
-`l``html
-<p><small><b>Base Map:</b> <i>Bird’s-Eye View of Toronto</i> (1876), art by P.A. Gross, Copp, Clark & Co. Lith., Public domain, via Wikimedia Commons.</small></p>
+```html
+<a href="https://commons.wikimedia.org/wiki/File:Toronto_1876.jpg">Art by P.A. Gross, lithographed by Copp, Clark &amp; Co. Limited.</a>, Public domain, via Wikimedia Commons. Tiled for Zoomify.
 ```
 
 ---
@@ -27,9 +27,9 @@ Copy the attribution block directly into the description box of your *Title Slid
 * **Max Width:** `12096`
 * **Max Height:** `7553`
 
-**Copy this attribution for your slide:**
+**Copy this attribution for your map:**
 ```html
-<p><small><b>Base Map:</b> <i>Map of Upper & Lower Canada</i> (1815), Joseph Bouchette, William Faden, J. Walker, Public domain, via Digital Commonwealth / Wikimedia Commons.</small></p>
+<a href="https://commons.wikimedia.org/wiki/File:1815_Map_of_the_provinces_of_upper_%26_lower_Canada_with_the_adjacent_parts_of_the_United_States_of_America,_%26c,_by_Joseph_Bouchette,_William_Faden,_J._Walker,_from_the_Digital_Commonwealth_-_commonwealth_8049g898c.jpg">Joseph Bouchette, William Faden, J. Walker</a>, Public domain, via Wikimedia Commons. Tiled for Zoomify.
 ```
 
 ---
@@ -39,9 +39,9 @@ Copy the attribution block directly into the description box of your *Title Slid
 * **Max Width:** `9146`
 * **Max Height:** `5744`
 
-**Copy this attribution for your slide:**
-`l``html
-<p><small><b>Base Map:</b> <i>Map of Western British North America</i> (1813-1814), David Thompson; scan by Manitoba Historical Maps, licensed under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a>, via Wikimedia Commons. Tiled for Zoomify.</small></p>
+**Copy this attribution for your map:**
+```html
+<a href="https://commons.wikimedia.org/wiki/File:Map_of_Western_British_North_America_(David_Thompson_1813-1814).jpg">Manitoba Historical Maps</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons. Tiled for Zoomify.
 ```
 
 ---
@@ -51,19 +51,12 @@ Copy the attribution block directly into the description box of your *Title Slid
 * **Max Width:** `9552`
 * **Max Height:** `6464`
 
-**Copy this attribution for your slide:**
+**Copy this attribution for your map:**
 ```html
-<p><small><b>Base Map:</b> <i>A map of the inhabited part of Canada from the French surveys</i> (1777); scan courtesy of Boston Public Library (<a href="http://maps.bpl.org" target="_blank">maps.bpl.org</a>), licensed under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a>, via Wikimedia Commons. Tiled for Zoomify.</small></p>
+<a href="https://commons.wikimedia.org/wiki/File:A_map_of_the_inhabited_part_of_Canada_from_the_French_surveys,_with_the_frontiers_of_New_York_and_New_England_(4578688747).jpg">http://maps.bpl.org</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons. Tiled for Zoomify
 ```
 
 ---
 
-
-## full Source Metadata & Licenses
-
 All original image files are from Wikimedia Commons. Zoomify derivatives were processed using libvips (`dzsave --layout zoomify`) for educational display.
 
-* **Toronto (1876):** Art by P.A. Gross; lithographed by Copp, Clark & Co. Limited. [View on WikimediaCommons](https://commons.wikimedia.org/wiki/File:Toronto_1876.jpg). **Public Domain.**
-* **Upper & Lower Canada (1815):** Joseph Bouchette, William Faden, J. Walker. Digital file via Digital Commonwealth. [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1815_Map_of_the_provinces_of_upper_&6_lower_Canada_with_the_adjacent_parts_of_the_United_States_of_America,_&c,_by_Joseph_Bouchette, William_Faden,_J._Walker,_from_the_Digital_Commonwealth_-_commonwealth_8049g898c.jpg). **Public Domain.*
-* **Western British North America (1814):** David Thompson (1813-1814). Uploaded by Manitoba Historical Maps. [View on WikimediaCommons](https://commons.wikimedia.org/wiki/File:Map_of_Western_British_North_America_(David_Thompson_1813-1814).jpg). Licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
-* **Inhabited Part of Canada (1777):** William Faden (1777). Courtesy of Norman B. Leventhal Map & Education Center at the Boston Public Library. [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_map_of_the_inhabited_part_of_Canada_from_the_French_surveys,_with_the_frontiers/of_New_York_and_New_England_(4578688747).jpg). Licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
