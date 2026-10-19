@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
-<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2026-10-18T19:50:37.843560-04" version="8.18.7">
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2026-10-18T20:14:27.582445-04" version="8.18.7">
   <properties>
     <property>
       <name>width</name>
-      <value type="gint">11748</value>
+      <value type="gint">9985</value>
     </property>
     <property>
       <name>height</name>
-      <value type="gint">5599</value>
+      <value type="gint">6656</value>
     </property>
     <property>
       <name>bands</name>
@@ -23,11 +23,11 @@
     </property>
     <property>
       <name>xres</name>
-      <value type="gdouble">15.748031496062993</value>
+      <value type="gdouble">2.8346456692913389</value>
     </property>
     <property>
       <name>yres</name>
-      <value type="gdouble">15.748031496062993</value>
+      <value type="gdouble">2.8346456692913389</value>
     </property>
     <property>
       <name>vips-loader</name>
@@ -39,15 +39,7 @@
     </property>
     <property>
       <name>jpeg-chroma-subsample</name>
-      <value type="VipsRefString">4:4:4</value>
-    </property>
-    <property>
-      <name>resolution-unit</name>
-      <value type="VipsRefString">in</value>
-    </property>
-    <property>
-      <name>orientation</name>
-      <value type="gint">1</value>
+      <value type="VipsRefString">4:2:0</value>
     </property>
     <property>
       <name>vips-sequential</name>

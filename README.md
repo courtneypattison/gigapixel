@@ -144,11 +144,11 @@ https://courtneypattison.github.io/gigapixel/white1902/
 ```
 * **Max Width:**
 ```text
-12979
+32447
 ```
 * **Max Height:**
 ```text
-7098
+17747
 ```
 * **Attribution:**
 ```html
