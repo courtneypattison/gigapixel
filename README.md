@@ -2,68 +2,179 @@
 
 This repository hosts pre-sliced Zoomify tile pyramids for use with Knight Lab StoryMapJS.
 
+## Instructions for StoryMapJS
 
-## Student Quick Copy: Map Files & Attributions
-
-Use these values in StoryMapJSunder *Options > StoryMap Type > Gigapixel*. 
-Copy the attribution block directly into the description box of your *Title Slide (Slide 0)*.
+In StoryMapJS, open **Options > StoryMap Type > Gigapixel**.  
+Click the **copy button** on each box below to paste the values directly into the corresponding StoryMap options fields:
+* **URL**
+* **Max Width**
+* **Max Height**
+* **Attribution**
 
 ---
 
 ### 1. Toronto (1876)
-* **URL:** `https://courtneypattison.github.io/gigapixel/toronto1876/`
-* **Max Width:** `12746`
-* **Max Height:** `8150`
 
-**Copy this attribution for your slide:**
-`l``html
-<p><small><b>Base Map:</b> <i>Bird’s-Eye View of Toronto</i> (1876), art by P.A. Gross, Copp, Clark & Co. Lith., Public domain, via Wikimedia Commons.</small></p>
+[![Bird’s-Eye View of Toronto (1876)](./thumbnails/toronto1876.jpg)](https://commons.wikimedia.org/wiki/File:Toronto_1876.jpg)
+
+* **Source:** [Wikimedia Commons (Public Domain)](https://commons.wikimedia.org/wiki/File:Toronto_1876.jpg)
+* **URL:**
+```text
+https://courtneypattison.github.io/gigapixel/toronto1876/
+```
+* **Max Width:**
+```text
+12746
+```
+* **Max Height:**
+```text
+8150
+```
+* **Attribution:**
+```html
+<a href="https://commons.wikimedia.org/wiki/File:Toronto_1876.jpg">Art by P.A. Gross, lithographed by Copp, Clark &amp; Co. Limited.</a>, Public domain, via Wikimedia Commons. Tiled for Zoomify.
 ```
 
 ---
 
 ### 2. Upper & Lower Canada (1815)
-* **URL:** `https://courtneypattison.github.io/gigapixel/bouchette1815/`
-* **Max Width:** `12096`
-* **Max Height:** `7553`
 
-**Copy this attribution for your slide:**
+[![Map of Upper & Lower Canada (1815)](./thumbnails/bouchette1815.jpg)](https://www.digitalcommonwealth.org/search/commonwealth:8049g898c)
+
+* **Source:** [Digital Commonwealth / Boston Public Library (Public Domain)](https://www.digitalcommonwealth.org/search/commonwealth:8049g898c)
+* **URL:**
+```text
+https://courtneypattison.github.io/gigapixel/bouchette1815/
+```
+* **Max Width:**
+```text
+12096
+```
+* **Max Height:**
+```text
+7553
+```
+* **Attribution:**
 ```html
-<p><small><b>Base Map:</b> <i>Map of Upper & Lower Canada</i> (1815), Joseph Bouchette, William Faden, J. Walker, Public domain, via Digital Commonwealth / Wikimedia Commons.</small></p>
+<a href="https://www.digitalcommonwealth.org/search/commonwealth:8049g898c">Joseph Bouchette, William Faden, J. Walker.</a>, Public domain, via Digital Commonwealth / Wikimedia Commons. Tiled for Zoomify.
 ```
 
 ---
 
 ### 3. Western British North America (1814)
-* **URL:** `https://courtneypattison.github.io/gigapixel/thompson1814/`
-* **Max Width:** `9146`
-* **Max Height:** `5744`
 
-**Copy this attribution for your slide:**
-`l``html
-<p><small><b>Base Map:</b> <i>Map of Western British North America</i> (1813-1814), David Thompson; scan by Manitoba Historical Maps, licensed under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a>, via Wikimedia Commons. Tiled for Zoomify.</small></p>
+[![Map of Western British North America (1813-1814)](./thumbnails/thompson1814.jpg)](https://commons.wikimedia.org/wiki/File:Map_of_Western_British_North_America_(David_Thompson_1813-1814).jpg)
+
+* **Source:** [Manitoba Historical Maps / Wikimedia Commons (CC BY 2.0)](https://commons.wikimedia.org/wiki/File:Map_of_Western_British_North_America_(David_Thompson_1813-1814).jpg)
+* **URL:**
+```text
+https://courtneypattison.github.io/gigapixel/thompson1814/
+```
+* **Max Width:**
+```text
+9146
+```
+* **Max Height:**
+```text
+5744
+```
+* **Attribution:**
+```html
+<a href="https://commons.wikimedia.org/wiki/File:Map_of_Western_British_North_America_(David_Thompson_1813-1814).jpg">David Thompson (1813-1814).</a>, licensed under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>, via Manitoba Historical Maps / Wikimedia Commons. Tiled for Zoomify.
 ```
 
 ---
 
 ### 4. Inhabited Part of Canada from French Surveys (1777)
-* **URL:** `https://courtneypattison.github.io/gigapixel/french1777/`
-* **Max Width:** `9552`
-* **Max Height:** `6464`
 
-**Copy this attribution for your slide:**
+[![Inhabited Part of Canada from French Surveys (1777)](./thumbnails/french1777.jpg)](https://collections.leventhalmap.org/search/commonwealth:x633f898c)
+
+* **Source:** [Norman B. Leventhal Map Center / Boston Public Library (CC BY 2.0)](https://collections.leventhalmap.org/search/commonwealth:x633f898c)
+* **URL:**
+```text
+https://courtneypattison.github.io/gigapixel/french1777/
+```
+* **Max Width:**
+```text
+9552
+```
+* **Max Height:**
+```text
+6464
+```
+* **Attribution:**
 ```html
-<p><small><b>Base Map:</b> <i>A map of the inhabited part of Canada from the French surveys</i> (1777); scan courtesy of Boston Public Library (<a href="http://maps.bpl.org" target="_blank">maps.bpl.org</a>), licensed under <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY 2.0</a>, via Wikimedia Commons. Tiled for Zoomify.</small></p>
+<a href="https://collections.leventhalmap.org/search/commonwealth:x633f898c">William Faden (1777).</a>, licensed under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>, via Norman B. Leventhal Map &amp; Education Center at the Boston Public Library / Wikimedia Commons. Tiled for Zoomify.
 ```
 
 ---
 
+### 5. Canada & Newfoundland (1935)
 
-## full Source Metadata & Licenses
+[![Canada & Newfoundland (1935)](./thumbnails/gross1935.jpg)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~253284~5518819)
 
-All original image files are from Wikimedia Commons. Zoomify derivatives were processed using libvips (`dzsave --layout zoomify`) for educational display.
+* **Source:** [David Rumsey Historical Map Collection (Public Domain / CC BY-NC-SA 3.0)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~253284~5518819)
+* **URL:**
+```text
+https://courtneypattison.github.io/gigapixel/gross1935/
+```
+* **Max Width:**
+```text
+9985
+```
+* **Max Height:**
+```text
+6656
+```
+* **Attribution:**
+```html
+<a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~253284~5518819">Alexander Gross, F.R.G.S., "Geographia" Map Co. (1935).</a>, Public domain / <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a>, via David Rumsey Historical Map Collection. Tiled for Zoomify.
+```
 
-* **Toronto (1876):** Art by P.A. Gross; lithographed by Copp, Clark & Co. Limited. [View on WikimediaCommons](https://commons.wikimedia.org/wiki/File:Toronto_1876.jpg). **Public Domain.**
-* **Upper & Lower Canada (1815):** Joseph Bouchette, William Faden, J. Walker. Digital file via Digital Commonwealth. [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1815_Map_of_the_provinces_of_upper_&6_lower_Canada_with_the_adjacent_parts_of_the_United_States_of_America,_&c,_by_Joseph_Bouchette, William_Faden,_J._Walker,_from_the_Digital_Commonwealth_-_commonwealth_8049g898c.jpg). **Public Domain.*
-* **Western British North America (1814):** David Thompson (1813-1814). Uploaded by Manitoba Historical Maps. [View on WikimediaCommons](https://commons.wikimedia.org/wiki/File:Map_of_Western_British_North_America_(David_Thompson_1813-1814).jpg). Licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
-* **Inhabited Part of Canada (1777):** William Faden (1777). Courtesy of Norman B. Leventhal Map & Education Center at the Boston Public Library. [View on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_map_of_the_inhabited_part_of_Canada_from_the_French_surveys,_with_the_frontiers/of_New_York_and_New_England_(4578688747).jpg). Licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+---
+
+### 6. Dominion of Canada and Newfoundland (1902)
+
+[![Map of the Dominion of Canada and Newfoundland (1902)](./thumbnails/white1902.jpg)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~358470~90125240)
+
+* **Source:** [David Rumsey Historical Map Collection / Department of the Interior (Public Domain / CC BY-NC-SA 3.0)](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~358470~90125240)
+* **URL:**
+```text
+https://courtneypattison.github.io/gigapixel/white1902/
+```
+* **Max Width:**
+```text
+12979
+```
+* **Max Height:**
+```text
+7098
+```
+* **Attribution:**
+```html
+<a href="https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~358470~90125240">James White, F.R.G.S., Department of the Interior Canada, lithographed by The Toronto Lithographing Co. Limited (1902).</a>, Public domain / <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/">CC BY-NC-SA 3.0</a>, via David Rumsey Historical Map Collection. Tiled for Zoomify.
+```
+
+---
+
+### 7. Western Canada & Canadian Pacific Railway (1893)
+
+[![Map of Western Canada ... Showing System of Land Survey and Lines of the Canadian Pacific Railway Company (1893)](./thumbnails/cpr1893.jpg)](https://www.flickr.com/photos/11496488@N07/3697307173)
+
+* **Source:** [Historical Maps of Manitoba on Flickr / University of Manitoba Archives (CC BY 2.0)](https://www.flickr.com/photos/11496488@N07/3697307173)
+* **URL:**
+```text
+https://courtneypattison.github.io/gigapixel/cpr1893/
+```
+* **Max Width:**
+```text
+11748
+```
+* **Max Height:**
+```text
+5599
+```
+* **Attribution:**
+```html
+<a href="https://www.flickr.com/photos/11496488@N07/3697307173">Canadian Pacific Railway Company / S.E. Dawson (1893).</a>, licensed under <a href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a>, via Historical Maps of Manitoba / Wikimedia Commons. Tiled for Zoomify.
+```
